@@ -1,2 +1,2 @@
 # ArduinoSierra
-Scrips Arduino Sierra Compresor
+Scripts Arduino Sierra Compresor
